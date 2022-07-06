@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open calculator.html",
+            "file": "e:\\LIB\\ Coding ninjas WEB-D MAN (Full Stack Wed Dev)\\19. Calculator Project\\WebCal\\calculator.html"
+        }
+    ]
+}
