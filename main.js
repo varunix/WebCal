@@ -1,4 +1,7 @@
-var result = document.getElementById("result-screen");
-function allClear(){
-    var x = document.getElementById("grid-item");
+var gridArr = document.getElementsByClassName("grid-item");
+function btn(value) {
+    if(value == "AC"){
+        console.log(true);
+    }
+    console.log(value);
 }

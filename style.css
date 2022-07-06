@@ -1,7 +1,7 @@
 #outer{
     width: 500px;
     height: 50%;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 500px;
 }
 
@@ -20,7 +20,7 @@
 .grid-item{
     background-color: white;
     border: 1px solid rgba(214, 199, 199, 0.8);
-    padding: 30px 47px 30px 46.4px;
+    padding: 30px 45.7px 30px 46.4px;
     font-size: 30px;
 }
 
@@ -28,8 +28,9 @@
     border: 1px solid rgba(214, 199, 199, 0.8);
     grid-column: 1/3;
     font-size: 30px;
-    padding-top: 30px;
-    padding-left: 129px;
+    padding-top: 20 px;
+    padding-left: 27px;
+    background-color: white;
 }
 
 .grid-item:hover, .grid-item-0:hover,.grid-item-01:hover,.grid-item-special:hover {
@@ -38,9 +39,9 @@
 }
 
 .grid-item-special{
-    border-right: 1px solid rgba(214, 199, 199, 0.8);
-    border-bottom: 1px solid rgba(214, 199, 199, 0.8);
+    border: 1px solid rgba(214, 199, 199, 0.8);
     font-size: 30px;
-    padding: 30px 47px 30px 46.4px;
+    padding: 30px 45.7px 30px 46.4px;
     background-color: rgba(208, 32, 32, 0.845);
+    margin-top: 0.4px;
 }
