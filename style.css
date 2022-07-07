@@ -10,15 +10,16 @@
     background-color: #dbd3d3a6;
     font-size: 40px;
     padding-bottom: 5px;
-    border: 2px red solid;
 }
 
 #result{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
     color: blue;
     padding-left: 380px;
     margin-top: -68px;
     margin-right: 10px;
-    direction: rtl;
     font-size: 30px;
 }
 
